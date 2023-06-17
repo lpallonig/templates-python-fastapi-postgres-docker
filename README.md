@@ -5,7 +5,10 @@ apenas um template, sem refatoração dos arquivos para facilitar o inicio dos p
 ## Ativar e criar venv
 
 > py -m venv venv
+
 >.\venv\Scripts\activate
+
+## Instalar libs python
 > pip install -r requirements.txt
 
 ## Subir postgres no docker
